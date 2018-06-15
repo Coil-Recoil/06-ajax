@@ -1,6 +1,9 @@
 body {
-    background: url("../images/what-the-hex.PNG");
-    background-color: black;
+    background: url("../images/black-solid.jpg");
+  }
+
+  p {
+    color: white;
   }
   
   .container {
