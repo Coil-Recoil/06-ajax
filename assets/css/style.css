@@ -1,0 +1,86 @@
+body {
+    background: url("../images/what-the-hex.PNG");
+    background-color: black;
+  }
+  
+  .container {
+    clear: both;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 960px;
+  }
+
+  .title {
+    font-family: 'Gravitas One', cursive;
+  }
+  
+  .year-info {
+      display: inline-block;
+      margin: 10px;
+  }
+  
+  button.year {
+        display: inline-block;
+        font-weight: 400;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        border: 1px solid transparent;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        border-radius: .25rem;
+        margin: 5px;
+        color: #fff;
+        background-color: #343a40;
+        border-color: #343a40;
+  }
+  
+  #year-form {
+      margin: 10px 0;
+  }
+  
+  #addyear {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    margin: 5px;
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+  }
+  
+
+  .newEra {
+    position: relative;
+    display: -ms-flexbox;
+    display: inline;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    color: white;
+    background-color: gray;
+    background-clip: border-box;
+    border: 3px solid white;
+    border-radius: .5rem;
+    margin-top: 5px;
+  }
+
+  
+  
